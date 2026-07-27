@@ -229,9 +229,9 @@ Possible enhancements:
 
 ---
 
-# 👨‍💻 Author
 
-**Aashray Biswal <br> Disha Bhawsar <br> Aatiya Sharma <br> Rishi Jaiswal**
+# 👨‍💻 Author
+**Aashray Biswal <br> Aatiya Sharma <br> Disha Bhawsar <br> Rishi Jaiswal**
 
 ---
 
